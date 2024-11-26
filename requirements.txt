@@ -1,0 +1,11 @@
+numpy
+tqdm
+nuplan-devkit
+matplotlib
+Pillow
+scipy
+torch
+pyquaternion
+shapely
+imageio
+omegaconf
