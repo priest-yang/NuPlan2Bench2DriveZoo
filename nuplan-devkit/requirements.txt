@@ -1,0 +1,52 @@
+aioboto3
+aiofiles
+bokeh
+boto3
+cachetools  # Used widely
+casadi  # Used for optimization solving
+control
+coverage  # Used in computing code coverage
+docker  # To run remote submissions
+Fiona  # Used in GpkgMapsDB.py
+geopandas  # Used to read maps
+grpcio
+grpcio-tools
+guppy3
+hydra-core
+hypothesis
+joblib
+jupyter  # Used to show the notebook
+jupyterlab
+matplotlib  # Used for rendering
+mock
+moto
+nest_asyncio  # Used to nest event loops when running nuBoard/jupyter
+numpy
+opencv-python  # Used widely
+pandas    # Used widely
+Pillow    # Used widely to render images
+pre-commit  # Used in pre-commit hooks
+psutil  # Used widely to get the number of CPUs
+pyarrow # For parquet
+pyinstrument    # Used widely as profiler
+pyogrio # A performant backend for geopandas
+pyquaternion  # Used widely, avoid known bug with quaternion slerp
+pytest    # Used widely
+rasterio  # Used in GpkgMapsDB.py
+ray # Used widely
+requests  # Used in BlobStore classes
+retry
+rtree # Used in occupancy maps
+s3fs # Used by pandas to read from/write to s3
+scipy  # Used widely
+selenium # Used in bokeh export png
+setuptools
+Shapely # Used widely
+SQLAlchemy
+sympy  # Use for symbolic algebra
+testbook  # Used in testing jupyter notebooks
+tornado  # Used in nuboard.py
+tqdm  # Used widely
+typer # Used for cli
+ujson  # Used in serialiation_callback.py
+urllib3  # Used in s3_store.py

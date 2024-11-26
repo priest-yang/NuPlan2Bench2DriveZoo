@@ -1,0 +1,9 @@
+#--find-links https://data.pyg.org/whl/torch-1.9.0+cu111.html
+future
+pytorch-lightning    # Used widely
+timm  # Used in model_raster
+
+torch
+torch_scatter
+torchmetrics
+torchvision
